@@ -17,3 +17,4 @@ public:
     Car &operator=(const Car &);
     void selfDraw(ConsoleHandle *&) const;
 };
+//jjkjhiiojoijjoji
